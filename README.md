@@ -55,7 +55,9 @@ print("Extracted columns:", columns)
 Example Output
  
 Extracted columns: ['a.a1', 'a.a2', 'b.b2']
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contributing
